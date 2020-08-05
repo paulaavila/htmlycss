@@ -1,0 +1,26 @@
+h1{ 
+    color:red;
+	font-weight:bold;
+	font-family:"Comic sans Ms";
+	font-size:70px;
+	text-align:center;
+	}
+IMG.imgcenter{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	border:none;
+	}
+body{
+    background-color:#FFEBCD;
+}
+p{
+    font-familia:"comic sans Ms";
+	font-size:20px;
+	text-align:justify;
+}
+hr{height:10px;
+    background-color:pink;
+	width: 80%;
+	background-color:black;
+}
